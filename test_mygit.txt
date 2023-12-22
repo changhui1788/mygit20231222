@@ -1,1 +1,1 @@
-github push 테스트용 파일입니다.
+github push 테스트 파일
